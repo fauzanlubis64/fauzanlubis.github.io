@@ -463,6 +463,7 @@ img {
     justify-items: center;
     column-gap: 2rem;
     padding-top: 2rem;
+    width: 100%;
   }
 }
 
