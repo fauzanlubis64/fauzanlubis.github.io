@@ -459,7 +459,10 @@ img {
     padding-top: 2rem;
   }
   .studycase__container {
+    grid-template-columns: repeat(2, 1fr);
     justify-items: center;
+    column-gap: 2rem;
+    padding-top: 2rem;
   }
 }
 
